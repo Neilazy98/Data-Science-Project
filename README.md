@@ -1,2 +1,2 @@
 # data-science-project
-data analysis in Pyrhon
+data analysis in Python
